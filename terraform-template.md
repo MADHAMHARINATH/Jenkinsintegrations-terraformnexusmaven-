@@ -1,6 +1,6 @@
 # Terraform templates
 - for ref:
-* *https://registry.terraform.io/modules/terraform-aws-modules/ec2-instance/aws/latest*Multiple EC2 Instance
+*https://registry.terraform.io/modules/terraform-aws-modules/ec2-instance/aws/latest*
 ## Multiple EC2 Instance
 ```
 module "ec2_instance" {
